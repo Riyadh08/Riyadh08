@@ -1,7 +1,6 @@
-### Hi there 👋
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]([http://www](https://github.com/plabandas))
-<h1 align="center">Hi 👋, I'm Plaban Das</h1>
+<h1 align="center">Hi 👋, I'm Robiul Islam Ryad</h1>
 <h3 align="center">I want to do something that not everyone can do🙃. A passionate learner from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -11,13 +10,13 @@
 
 - 💬 Ask me about **Android , Data Structure , Object Oriented Programming**
 
-- 📫 How to reach me **turjoyplaban09@gmail.com**
+- 📫 How to reach me **robiulriyadh66@gmail.com**
 
 - ⚡ Fun fact **Nothing is easy. Right ? !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/turjoy.plabon.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turjoy.plabon.1" height="30" width="40" /></a>
+<a href="https://www.facebook.com/robiul.islam.71653318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
