@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plabandas&label=Profile%20views&color=0e75b6&style=flat" alt="plabandas" /> </p>
 
-- 🌱 I’m currently learning **Python Django , Recommended System**
+- 🌱 I’m currently learning **Python Django , Recomended System**
 
-- 💬 Ask me about **Android , Data Structure , Object Oriented Programming**
+- 💬 Ask me about **JAVA , Data Structure , Object Oriented Programming**
 
 - 📫 How to reach me **robiulriyadh66@gmail.com**
 
