@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.facebook.com/robiul.islam.71653318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/robiul-riyadh-b32980237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/robiul-riyadh-b32980237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
 </a>
 </p>
 
